@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+.game {
+    display: flex;
+    justify-content: flex-end;
+    background-color: powderblue;
+    color: blue; 
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: blue;
+    background-color: powderblue;
+    margin: 0px;
+   
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(powderblue, pink);
+}
+.home {
+    text-align: center;
+    color: blue;
+}
+.score {
+    color: salmon;
+    background-color: lightseagreen;
+    text-align: center;
+    font-size: 40px;
+}
+.btn {
+    padding: px;
+    background-color: lightseagreen;
+    border: none;
+    margin-bottom: 10px;
+}
