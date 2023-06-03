@@ -39,5 +39,5 @@ function foulGuest() {
 function newGame(){
     guestPoint.innerText = 0
     homePoint.innerText = 0
-    sum = 0
+    num = 0
 }
